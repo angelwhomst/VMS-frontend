@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/VMS-frontend/static/css/main.158c55b4.css",
-    "main.js": "/VMS-frontend/static/js/main.52c07900.js",
+    "main.js": "/VMS-frontend/static/js/main.cad1115f.js",
     "static/js/488.cc636383.chunk.js": "/VMS-frontend/static/js/488.cc636383.chunk.js",
     "index.html": "/VMS-frontend/index.html",
     "main.158c55b4.css.map": "/VMS-frontend/static/css/main.158c55b4.css.map",
-    "main.52c07900.js.map": "/VMS-frontend/static/js/main.52c07900.js.map",
+    "main.cad1115f.js.map": "/VMS-frontend/static/js/main.cad1115f.js.map",
     "488.cc636383.chunk.js.map": "/VMS-frontend/static/js/488.cc636383.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.158c55b4.css",
-    "static/js/main.52c07900.js"
+    "static/js/main.cad1115f.js"
   ]
 }
