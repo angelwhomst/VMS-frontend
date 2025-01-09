@@ -1,7 +1,7 @@
 {
   "name": "VMS_frontend",
   "version": "0.1.0",
-  "homepage": "https://github.com/angelwhomst/VMS-frontend",
+  "homepage": "https://github.io/angelwhomst/VMS-frontend",
   "private": true,
   "dependencies": {
     "cra-template": "1.2.0",
