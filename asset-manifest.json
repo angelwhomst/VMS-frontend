@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/angelwhomst/VMS-frontend/static/css/main.158c55b4.css",
+    "main.js": "/angelwhomst/VMS-frontend/static/js/main.3f344234.js",
+    "static/js/488.cc636383.chunk.js": "/angelwhomst/VMS-frontend/static/js/488.cc636383.chunk.js",
+    "index.html": "/angelwhomst/VMS-frontend/index.html",
+    "main.158c55b4.css.map": "/angelwhomst/VMS-frontend/static/css/main.158c55b4.css.map",
+    "main.3f344234.js.map": "/angelwhomst/VMS-frontend/static/js/main.3f344234.js.map",
+    "488.cc636383.chunk.js.map": "/angelwhomst/VMS-frontend/static/js/488.cc636383.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.158c55b4.css",
+    "static/js/main.3f344234.js"
+  ]
+}
