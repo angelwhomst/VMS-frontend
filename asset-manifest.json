@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/github.io/VMS-frontend/static/css/main.158c55b4.css",
-    "main.js": "/github.io/VMS-frontend/static/js/main.ecb23733.js",
-    "static/js/488.cc636383.chunk.js": "/github.io/VMS-frontend/static/js/488.cc636383.chunk.js",
-    "index.html": "/github.io/VMS-frontend/index.html",
-    "main.158c55b4.css.map": "/github.io/VMS-frontend/static/css/main.158c55b4.css.map",
-    "main.ecb23733.js.map": "/github.io/VMS-frontend/static/js/main.ecb23733.js.map",
-    "488.cc636383.chunk.js.map": "/github.io/VMS-frontend/static/js/488.cc636383.chunk.js.map"
+    "main.css": "/VMS-frontend/static/css/main.158c55b4.css",
+    "main.js": "/VMS-frontend/static/js/main.52c07900.js",
+    "static/js/488.cc636383.chunk.js": "/VMS-frontend/static/js/488.cc636383.chunk.js",
+    "index.html": "/VMS-frontend/index.html",
+    "main.158c55b4.css.map": "/VMS-frontend/static/css/main.158c55b4.css.map",
+    "main.52c07900.js.map": "/VMS-frontend/static/js/main.52c07900.js.map",
+    "488.cc636383.chunk.js.map": "/VMS-frontend/static/js/488.cc636383.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.158c55b4.css",
-    "static/js/main.ecb23733.js"
+    "static/js/main.52c07900.js"
   ]
 }
