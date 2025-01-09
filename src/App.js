@@ -19,7 +19,7 @@ function App() {
   }, []);
 
   return (
-    <Router>
+    <Router basename="/VMS-frontend">
       <AppRoutes />
     </Router>
   );
@@ -33,7 +33,7 @@ const AppRoutes = () => {
       {/* Only render NavBar if the current path is NOT the LandingPage or LoginPage */}
       {location.pathname !== "/" && location.pathname !== "/login" && <NavBar />}
       
-      <Routes basename="/VMS-frontend">
+      <Routes>
         {/* Define Routes for LandingPage, LoginPage, Products, Orders, Dashboard */}
         <Route path="/" element={<LandingPage />} />
         <Route path="/login" element={<LoginPage />} />
